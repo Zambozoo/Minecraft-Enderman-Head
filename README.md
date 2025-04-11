@@ -1,5 +1,5 @@
 # Enderman Head
-Minecraft data and resource packs to add Enderman Head blocks to the game.
+Multiplayer friendly Minecraft data and resource packs to add Enderman Head blocks to the game.
 
 ## Installation
 Place the [Enderman Head Datapack directory](/Enderman%20Head%20Datapack/) in the world's datapacks folder: `MINECRAFT_HOME/saves/WORLD_NAME/datapacks`
